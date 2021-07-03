@@ -1,3 +1,9 @@
+---------- Lời dẫn --------
+IoC-Container là cách để quản lý các đối tượng trong ứng dụng dể phục vụ cho việc tạo, lấy ra các đối tượng linh hoạt nhất có thể.\
+Thực tế thì Spring là framework đi đầu cho tư tưởng này thông qua các annotation như @Autowired, @Service, @Component... \
+
+Làm sao để hiểu cách hoạt động của nó chi tiết nhất, tại sao các annotation lại hoạt động được thì project này là một hướng dẫn tuyệt với để hiểu rõ chi tiết về IoC-Container.\
+Khi làm chủ được IoC-Container thì các dự án nho nhỏ không cần đến các Framework thì cũng có thể tự tạo được IOC phục vụ cho dự án.\
 
 Magic-IoC-Container
 -----------------------
